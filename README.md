@@ -1,2 +1,3 @@
-# Test-1
-This is my first Git Repository
+# student-sania
+This is my first Git Repository.
+Athour-Sania Dua
